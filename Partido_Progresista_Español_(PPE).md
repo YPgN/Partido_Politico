@@ -1,6 +1,6 @@
 # PARTIDO PROGRESISTA ESPAÑOL (PPE)
 
-<img src=".\img\IMG-20220504-WA0000_edit.jpg" alt="IMG-20220504-WA0000_edit" style="zoom:25%;" />
+<img src=".\IMG-20220504-WA0000_edit.jpg" alt="IMG-20220504-WA0000_edit" style="zoom:25%;" />
 
 Españoles, voten al Partido Progresista Español (PPE), buscamos el progreso del país en todos los aspectos.
 
